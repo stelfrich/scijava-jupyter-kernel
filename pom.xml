@@ -61,6 +61,8 @@
         <license.licenseName>apache_2</license.licenseName>
         <license.copyrightOwners>Hadrien Mary</license.copyrightOwners>
         <netbeans.hint.license>apache20</netbeans.hint.license>
+        
+        <scijava-common.version>2.62.2-SNAPSHOT</scijava-common.version>
     </properties>
 
     <mailingLists>
